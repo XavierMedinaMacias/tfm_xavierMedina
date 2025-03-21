@@ -27,5 +27,5 @@ filled_df = df.fillna(0)
 # Guardar el DataFrame resultante en un nuevo archivo CSV con separación por ';'
 filled_df.write.csv(output_csv_path, header=True, mode="overwrite", sep=';')
 
-# Detener la SparkSession
+# Detener la SparkSession -
 spark.stop()

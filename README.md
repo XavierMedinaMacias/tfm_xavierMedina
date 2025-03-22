@@ -1,4 +1,4 @@
-🌿 Sistema Automatizado para la Gestión Inteligente del Agua en Agricultura 💧
+# 🌿 Sistema Automatizado para la Gestión Inteligente del Agua en Agricultura 💧
 Este repositorio contiene el desarrollo de un sistema automatizado basado en Big Data y Data Science para optimizar el uso de los recursos hídricos en entornos agrícolas. Integrando sensores, teledetección e inteligencia artificial, buscamos mejorar la eficiencia del consumo de agua a través de modelos de machine learning, análisis de patrones y visualización interactiva.
 
 📌 Características principales:
